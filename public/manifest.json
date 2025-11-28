@@ -1,0 +1,22 @@
+{
+  "name": "ElétricaRápida",
+  "short_name": "ElétricaRápida",
+  "description": "Sistema de agendamento para serviços elétricos",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#061221",
+  "theme_color": "#00C2A8",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
