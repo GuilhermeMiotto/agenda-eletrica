@@ -182,4 +182,3 @@ MIT License - veja LICENSE para detalhes
 
 ---
 
-Desenvolvido com ⚡ por [Seu Nome]
